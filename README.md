@@ -1,4 +1,6 @@
 # Super-Market-Grocery-Analysis
-[Orginal Dataset](Supermart Grocery Sales - Retail Analytics Dataset (1).csv)
+[Orginal Dataset](Supermart_Grocery_Sales_Retail_Analytics_Dataset.csv)
+
 [Tasks](
+
 [Dasboard & Insights](Supermart_Grocery_Sales_Analysis.xlsx)
