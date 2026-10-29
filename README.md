@@ -7,6 +7,8 @@ An Excel analysis of 9,994 grocery orders from Jan 2015 to Dec 2018 (Tamil Nadu,
 2. **Product performance:** top categories and sub-categories, and high-sales / low-margin products
 3. **Profit and discount:** highest-profit categories and regions, and the relationship between discount and profit
 4. **Geography:** city-level sales and margin comparison
+
+
 [Tasks done](Sapphire_IQ_Supermart_Grocery_Sales_Dashboard.pdf)
 
 [Orginal Dataset](Supermart_Grocery_Sales_Retail_Analytics_Dataset.csv)
